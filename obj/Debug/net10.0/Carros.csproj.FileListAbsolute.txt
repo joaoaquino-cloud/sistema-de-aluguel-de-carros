@@ -1,0 +1,14 @@
+C:\Users\Ryanm\projetos_C#\Carros\bin\Debug\net10.0\Carros.exe
+C:\Users\Ryanm\projetos_C#\Carros\bin\Debug\net10.0\Carros.deps.json
+C:\Users\Ryanm\projetos_C#\Carros\bin\Debug\net10.0\Carros.runtimeconfig.json
+C:\Users\Ryanm\projetos_C#\Carros\bin\Debug\net10.0\Carros.dll
+C:\Users\Ryanm\projetos_C#\Carros\bin\Debug\net10.0\Carros.pdb
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\Carros.AssemblyInfoInputs.cache
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\Carros.AssemblyInfo.cs
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\Carros.dll
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\refint\Carros.dll
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\Carros.pdb
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\Carros.genruntimeconfig.cache
+C:\Users\Ryanm\projetos_C#\Carros\obj\Debug\net10.0\ref\Carros.dll
